@@ -1,0 +1,22 @@
+
+#main{
+    background-color:Lavender;
+    color:brown;
+    font-family:cursive;
+    justify-content: center;
+    text-align: center;
+    justify-content: center;
+    border:1px solid black;
+    height:500px;
+    
+}
+input{
+    font-family: monospace;
+    margin-bottom:20px;
+}
+#box{
+    background-color: aliceblue;
+    width:200px;
+    border:1px solid black;
+    margin-left:520px;
+}

@@ -1,0 +1,15 @@
+#BOXX{
+    background-image:url('C:\\Users\\yadav\\OneDrive\\Desktop\\project\\myapp\\src\\sky.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:150px;
+    
+    font-family: cursive;
+    color:powderblue;
+    margin-top:0px;
+    border:1px solid black;
+    padding:0%;
+}
+#lol{
+    padding:0%;
+}

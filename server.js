@@ -11,7 +11,7 @@ app.post('/',async(req,res)=>{
     res.send('Order Placed!');
 
 });
-mongoose.connect('mongodb+srv://admin:root@cluster0.kwlzyeo.mongodb.net/Orders?retryWrites=true&w=majority&appName=Cluster0')
+mongoose.connect()
 .then(()=>{
 app.listen(3004,()=>{
     console.log("serving");
